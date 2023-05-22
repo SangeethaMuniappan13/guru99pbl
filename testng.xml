@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNG_PBL.Assignment3"/>
+      <class name="seleniumFrameworks.PageObjectModel.TestMethods"/>
+      <class name="TestNG_PBL.Assignment1.testng_Demo"/>
+      <class name="Com_Tests.HandleWindows"/>
+      <class name="Com_Tests.OperationCommands"/>
+      <class name="selenium_Web_Controls.ExceptionHandlingJavaScriptExecutor.Assignment1"/>
+      <class name="Com_Tests.WaitsCode"/>
+      <class name="selenium_Web_Controls.HandlingKEYBoardMouseActions.Assignment2"/>
+      <class name="selenium_Web_Controls.HandlingDifferentControls.Assignment1"/>
+      <class name="selenium_Web_Controls.HandlingKEYBoardMouseActions.Assignment1"/>
+      <class name="Com_Tests.KeyBoardMouseActions"/>
+      <class name="Com_Tests.DataCaptureControls"/>
+      <class name="selenium_Web_Controls.HandlingAlerts_TakingScreenshots.Assignment1"/>
+      <class name="BDDCucumber.OverviewOfCucumber.Hooks"/>
+      <class name="demoQAautomation.DemoQA"/>
+      <class name="seleniumFrameworks.DataDrivenFrameWork.DataDriven"/>
+      <class name="selenium_Web_Controls.WindowsHandlingWebTables.Assignment1"/>
+      <class name="Com_Tests.VerificationControlMethods"/>
+      <class name="TestNG_PBL.Assignment2"/>
+      <class name="selenium_Web_Controls.PageSynchronization.Assignment1"/>
+      
+      <class name="SearchRunner"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
